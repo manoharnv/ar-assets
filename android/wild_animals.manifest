@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 1149897621
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 164e1cd36d28a6c0f93e8788645243f3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7857f01706d68abc4c67cba329c1a3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Animal pack deluxe/Prefabs/Wild_rabbit_v2_prefab.prefab
+- Assets/Animal pack deluxe/Prefabs/Deer_prefab.prefab
+- Assets/Animal pack deluxe/Prefabs/Wolf_prefab.prefab
+- Assets/Animal pack deluxe/Prefabs/Brown_bear_prefab.prefab
+- Assets/Animal pack deluxe/Prefabs/Wild_rabbit_prefab.prefab
+- Assets/Animal pack deluxe/Prefabs/Ibex_prefab.prefab
+- Assets/Animal pack deluxe/Prefabs/Deer_male_prefab.prefab
+Dependencies: []
