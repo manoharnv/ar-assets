@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 3304456480
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4e6dffdbe68ee4a1ebb0ad3f88633a8a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7857f01706d68abc4c67cba329c1a3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Animal pack deluxe/Prefabs/Octopus_prefab.prefab
+- Assets/Animal pack deluxe/Prefabs/Salmon_old_prefab.prefab
+- Assets/Animal pack deluxe/Prefabs/Pike_prefab.prefab
+- Assets/Animal pack deluxe/Prefabs/Great_white_shark_prefab.prefab
+- Assets/Animal pack deluxe/Prefabs/Salmon_prefab.prefab
+- Assets/Animal pack deluxe/Prefabs/Octopus_v2_prefab.prefab
+- Assets/Animal pack deluxe/Prefabs/Perch_fish_prefab.prefab
+Dependencies: []

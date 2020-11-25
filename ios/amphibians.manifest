@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 2656437489
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e7f3dc79efba1f4977cfc323d777d448
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3f7857f01706d68abc4c67cba329c1a3
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Animal pack deluxe/Prefabs/Common_frog_v3_prefab.prefab
+- Assets/Animal pack deluxe/Prefabs/Common_frog_v2_prefab.prefab
+- Assets/Animal pack deluxe/Prefabs/Crab_prefab.prefab
+- Assets/Animal pack deluxe/Prefabs/Common_frog_prefab.prefab
+Dependencies: []
